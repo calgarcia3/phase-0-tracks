@@ -11,4 +11,4 @@ A commit is a change to your document. It is good to keep track of what changes 
 * What is a merge conflict?
 A merge conflict is when two documents are too different and can no longer merge together. For example, you fork a document and try to merge at a later date, but due to the changes they are no longer compatable.
 
-Final Answer
+Stuck
