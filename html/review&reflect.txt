@@ -1,0 +1,26 @@
+1.
+* Server – The “main computer” where our file(s) are sent to be interpreted. 
+* Client – our files, data, pages
+* Render – engine responsible for displaying content 
+2. HTML is a markup language used for creating web pages.
+* Tag – is used before and after creating an element in the desired position ex. <h> info </h>
+* Element – the entire tag including content
+* attribute – values that change elements 
+* block element – group of attributes together contained in a single tag
+* inline element – single element inside a block element
+3.
+* head – starts the html page, provides the first content
+* body – the main meat of the page
+* p – allows us to make paragraphs and format our page
+* form – used to gather information from the user
+* div – used to group information, block element
+* span – used to group info, inline element
+* select – info prefilled to guide user
+* h2 – 2ND Head
+* ol – organized list, 1 2 3 4 5
+* ul – bullet points
+* table – information put together inside a table for easy understanding
+* tr – table row, shows row of content
+* td – table data, content inside the table
+
+
