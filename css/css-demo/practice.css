@@ -1,0 +1,8 @@
+p#smalltext {
+	font-size: .8em;
+}
+section#job {
+	background-color: #e9e5dc;
+	padding: 50px 20px 20px 50px;
+	margin: 20px 0px 0px -20px;
+}
