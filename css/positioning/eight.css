@@ -1,0 +1,18 @@
+div#octo {
+	display: block;
+	margin: center;
+	margin-top: 50px;
+}
+div#glasses {
+	display: block;
+	margin: center;
+	margin-top: 25px;
+}
+div#hat {
+	display: block;
+	margin: center;
+	margin-top: 10px;
+}
+.red {
+	color: red;
+}
