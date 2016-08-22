@@ -9,3 +9,8 @@ section#job {
 ul#list {
 	font-size: .8em;
 }
+link:hover { 
+	outline: dashed black;
+}
+li:last-child {
+  color:red;
