@@ -34,6 +34,7 @@
 # "z".<???>
 # => 122 
 # (What is the significance of the number 122 in relation to the character z?)
+It is ascii code where z = 122. I could not figure out how to get the return of 122 however.
 
 # "How many times does the letter 'a' appear in this string?".count("a")
 # => 4
