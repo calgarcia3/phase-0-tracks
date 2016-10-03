@@ -2,11 +2,13 @@ div#octo {
 	display: block;
 	margin: center;
 	margin-top: 50px;
+	float: center;
 }
 div#glasses {
 	display: block;
 	margin: center;
 	margin-top: 25px;
+	float: center;
 }
 div#hat {
 	display: block;
