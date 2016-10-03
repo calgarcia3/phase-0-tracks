@@ -1,4 +1,4 @@
-blockquote {
+pblockquote {
   border-left: 5px solid blue;
   padding: 15px;
   margin-left: 200px;
@@ -40,7 +40,7 @@ body {
   float: right;
   min-width: 20%;
 }
-@media screen and (max-width: 500px) {
+@media screen and (max-width: 550px) {
   body {
     background-color: hotpink;
     orientation:  portrait;
