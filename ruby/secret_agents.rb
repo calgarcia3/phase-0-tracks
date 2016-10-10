@@ -1,5 +1,3 @@
-# pairing between calgarcia3 & sierramclawhorn 
-
 # Pseudocode for encryption method:
 # - For each character in a string
 #   - If the character isn't a space or " "
