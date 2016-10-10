@@ -19,28 +19,3 @@ unitil employees == 0
 	vampires_like_garlic = false
 
 
-	
-	if age > "100" && garlic == "y"
-		puts "Probably not a vampire"
-	elsif age < "100" && garlic == "n" || health == "n"
-		puts "Probably a vampire"
-	elsif age < "100" && garlic == "n" && helath == "n"
-		puts "Almost certainly a vampire"
-	elsif name == "Drake Cula" || name == "Tu Fang"
-		puts "Definitely a vampire"
-	else 
-		puts "Results inconclusive"
-	end
-	employees = employees - 1
-end
-
-puts "List all allergies"
-allergies = gets.chomp
-
-if allergies = "sunshine"
-	puts "Probably a vampire."
-else 
-	puts "Not a vampire"
-end
-
-puts "Actually, never mind! What do these questions have to do with anything? Let's all be friends."
