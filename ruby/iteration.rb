@@ -12,5 +12,10 @@ locations.each do |states|
 	locations.next
 end
 
+car_types = { 'ford' => 'F-250', 'dodge' => 'avenger', 'chevy' => 'corvette'}
+
+car_types.each do |make, model|
+	puts "I own a #{make} #{model}."
+end
 
 
