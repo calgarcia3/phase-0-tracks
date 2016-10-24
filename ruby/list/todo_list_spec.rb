@@ -10,13 +10,12 @@ describe TodoList do
     expect(list.get_items).to eq ["do the dishes", "mow the lawn", "mop"]
   end
 
-  
-module Shout
-
-  def self.yell_angrily(words)
-    words + "!!!" + " :("
+  it "deletes an item" do
+    list.delete_item("do the dishes")
+    expect(list.get_items).to eq ["mow the lawn"]
   end
-  def yelling_happiliy
-    
+
+  it "retrieves an item by index" do
+    expect(list.get_item(0)).to eq "do the dishes"
   end
 end
